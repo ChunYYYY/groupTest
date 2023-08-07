@@ -1,4 +1,5 @@
 from function1 import *
+from function2 import *
 
 displayText()
 
@@ -7,3 +8,6 @@ print(result1)
 
 result2 = f2(4,5,5)
 print(result2)
+
+result3 = f3(4)
+print(result3)

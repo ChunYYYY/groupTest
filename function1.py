@@ -5,4 +5,4 @@ def f2(a, b, c):
     return a + c*b
 
 def displayText():
-    print("Information is printed")
+    print("New information is printed")
